@@ -1,2 +1,3 @@
 # hello-world
 Github HelloWorld tutorial
+A bit about myself ....
